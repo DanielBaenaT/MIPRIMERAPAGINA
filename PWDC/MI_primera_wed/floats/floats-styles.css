@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.pagina {
+    width: 500px;
+    border: solid 2px red;
+}
+
+.menu {
+    background-color: aquamarine;
+    height: 100px;
+}
+
+.barra-lateral {
+    background-color: blueviolet;
+    height: 500px;
+    width: 50px;
+    float: left;
+
+}
+
+.contenido {
+    background-color: chartreuse;
+    height: 500px;
+    width: 346px;
+    float: left;
+}
+
+.pie {
+    background-color: aquamarine;
+    height: 200px;
+    clear: both;
+}
